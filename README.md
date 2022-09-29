@@ -1,0 +1,1 @@
+<h4>In this coding exercise, we finished an object-oriented programming assignment. The aim was to prepare a test software, for digitalizing the different functionalities of three companies. We learned how to initialize a class and assign its attributes, and how to create an object from a class to use its methods.<h4>
